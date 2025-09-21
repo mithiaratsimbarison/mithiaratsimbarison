@@ -33,14 +33,14 @@ I’m a dual-degree student in Digital Engineering & Management, currently study
 - 🇨🇳 Chinese (beginner, learning)  
 ---
 
-## 📂 Selected Projects (China Semester 🇨🇳)
+## 📂 Selected Projects 
 
-During my semester abroad in Shanghai, I worked on several data analysis projects combining **real estate, mobility, and consumer behavior** datasets.  
-The objective was to apply **data-driven methods** to strategic business questions.
+During my semester abroad in Shanghai, I worked on several data analysis projects combining real estate, mobility, and consumer behavior datasets.  
+The objective was to apply data-driven methods to strategic business questions.
 
-- 🏙️ **PCA on Real Estate Data** – Applied Principal Component Analysis on 460k+ housing listings in Shanghai to identify key drivers of price and neighborhood characteristics.  
-- 🚇 **Subway & Real Estate Regression** – Built regression models to measure the impact of metro accessibility on housing prices, quantifying the “subway premium.”  
-- 🗺️ **15-Minute Walkability Model** – Mapped the accessibility of key services (shops, restaurants, schools, metro) within 5/10/15 minutes of each neighborhood, integrating urban planning and consumer demand analysis.  
+- **PCA on Real Estate Data** – Applied Principal Component Analysis on 460k+ housing listings in Shanghai to identify key drivers of price and neighborhood characteristics.  
+- **Subway & Real Estate Regression** – Built regression models to measure the impact of metro accessibility on housing prices.  
+- **15-Minute Walkability Model** – Mapped the accessibility of key services (shops, restaurants, schools, metro) within 5/10/15 minutes of each neighborhood, integrating urban planning and consumer demand analysis.  
 
 
 ---
