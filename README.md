@@ -2,15 +2,6 @@
 
 I’m a dual-degree student in Digital Engineering & Management, currently studying at EDHEC Business School and Université de Technologie de Compiègne (UTC). I love working at the intersection of finance and data science, applying quantitative methods to solve real-world problems in financial markets and risk management. Last semester, I studied abroad in China, where I carried out several data analysis projects that gave me hands-on experience with large datasets and statistical modeling. My career goal is to work in financial markets, combining my finance knowledge with my technical skills to create meaningful impact.  
 
----
-
-## 🔎 What I'm interested in:
-- Quantitative finance & financial modeling  
-- Risk analysis, portfolio optimization, derivatives pricing  
-- Data-driven approaches to markets (Python & R)  
-- SQL-based financial data management  
-- Automation & reporting with Excel/VBA  
-- International finance & cross-cultural collaboration  
 
 ---
 
@@ -19,7 +10,7 @@ I’m a dual-degree student in Digital Engineering & Management, currently study
 - Financial Markets & Instruments: fixed income, derivatives, risk management, asset pricing  
 - Corporate Finance: advanced valuation, capital structure, strategic decision-making  
 - Quantitative Finance: econometrics, time-series, volatility & risk models  
-- Applied Data Science in Finance: credit scoring, machine learning, optimization  
+- Applied Data Science in Finance: credit scoring, machine learning, operational research  
   
 
 **Data & Tech:**  
@@ -52,8 +43,8 @@ The objective was to apply data-driven methods to strategic business questions.
 ---
 
 ## 🎯 Looking for:
-A **6-month internship (starting Jan. 2026)** in **financial markets**, **quantitative research**, or **risk management** — ideally combining **finance expertise**, **data analysis**, and **international perspective**.  
+A **6-month internship (starting Jan. 2026)** in **data analyst**, **risk analyst**, or **business analyst** — ideally combining **finance expertise**, **data analysis**, and **international perspective**.  
 
 Feel free to connect or explore my work 👇  
-[LinkedIn](https://www.linkedin.com/in/mithia-ratsimbarison/) | [Email](mailto:ratsimbarisonmithia@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/mithia-ratsimbarison/) | [Email](mailto:mithia.ratsimbarison@edhec.com)  
 
