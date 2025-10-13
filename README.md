@@ -29,14 +29,15 @@ I’m a dual-degree student in Digital Engineering & Management, currently study
 During my semester abroad in Shanghai, I worked on several data analysis projects combining real estate, mobility, and consumer behavior datasets.  
 The objective was to apply data-driven methods to strategic business questions.
 
-- *[PCA_Mithia.pdf](https://github.com/user-attachments/files/22454024/PCA_Mithia.pdf)
-*PCA on Real Estate Data** – Applied Principal Component Analysis on 460k+ housing listings in Shanghai to identify key drivers of prices.  
+- [pca_price_real_estate.pdf](https://github.com/user-attachments/files/22893642/pca_price_real_estate.pdf)
+**PCA on Real Estate Data** – Applied Principal Component Analysis on 460k+ housing listings in Shanghai to identify key drivers POI of prices.  
 
-- [Regression_Subway_Mithia.pdf](https://github.com/user-attachments/files/22454027/Regression_Subway_Mithia.pdf)
+
+- [regression_subway_real_esate.pdf](https://github.com/user-attachments/files/22893649/regression_subway_real_esate.pdf)
 **Subway & Real Estate Regression** – Built regression models to measure the impact of metro accessibility on housing prices.
 
-- [15min_walk_Mithia.pdf](https://github.com/user-attachments/files/22454029/15min_walk_Mithia.pdf)
-**15-Minute Walkability Model** – Mapped the accessibility of key services (shops, restaurants, schools, metro) within 5/10/15 minutes of each neighborhood, to know the accessibilty of each one.
+- [walkabilty_shanghai.pdf](https://github.com/user-attachments/files/22893652/walkabilty_shanghai.pdf)
+**15-Minute Walkability Model** – Mapped the accessibility of key services (shops, restaurants, schools, metro) within 5/10/15 minutes of each neighborhood to know the accessibilty of it.
 
 
 ---
