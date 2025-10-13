@@ -30,14 +30,13 @@ During my semester abroad in Shanghai, I worked on several data analysis project
 The objective was to apply data-driven methods to strategic business questions.
 
 - *[PCA_Mithia.pdf](https://github.com/user-attachments/files/22454024/PCA_Mithia.pdf)
-*PCA on Real Estate Data** – Applied Principal Component Analysis on 460k+ housing listings in Shanghai to identify key drivers of price and neighborhood characteristics.  
+*PCA on Real Estate Data** – Applied Principal Component Analysis on 460k+ housing listings in Shanghai to identify key drivers of prices.  
 
 - [Regression_Subway_Mithia.pdf](https://github.com/user-attachments/files/22454027/Regression_Subway_Mithia.pdf)
 **Subway & Real Estate Regression** – Built regression models to measure the impact of metro accessibility on housing prices.
 
 - [15min_walk_Mithia.pdf](https://github.com/user-attachments/files/22454029/15min_walk_Mithia.pdf)
-**15-Minute Walkability Model** – Mapped the accessibility of key services (shops, restaurants, schools, metro) within 5/10/15 minutes of each neighborhood, integrating urban planning and consumer demand analysis.
-
+**15-Minute Walkability Model** – Mapped the accessibility of key services (shops, restaurants, schools, metro) within 5/10/15 minutes of each neighborhood, to know the accessibilty of each one.
 
 
 ---
