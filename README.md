@@ -29,7 +29,7 @@ I’m a dual-degree student in Digital Engineering & Management, currently study
 During my semester abroad in Shanghai, I worked on several data analysis projects combining real estate, mobility, and consumer behavior datasets.  
 The objective was to apply data-driven methods to strategic business questions.
 
--  [Project_Credit_scoring_analyse_reg_log (1).pdf](https://github.com/user-attachments/files/23330167/Project_Credit_scoring_analyse_reg_log.1.pdf)
+-  [Project_Credit_scoring_analyse_log_reg.pdf](https://github.com/user-attachments/files/23330237/Project_Credit_scoring_analyse_log_reg.pdf)
 **Credit Scoring (Logistic Regression)** — Predicted client risk category using supervised classification on financial & behavioral features.  
 
 
