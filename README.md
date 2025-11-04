@@ -21,7 +21,7 @@ I’m a dual-degree student in Digital Engineering & Management, currently study
 **Languages:**  
 - 🇫🇷 French (native)  
 - 🇬🇧 English (fluent)  
-- 🇨🇳 Chinese (beginner, learning)  
+- 🇨🇳 Chinese (intermediate)  
 ---
 
 ## 📂 Selected Projects 
