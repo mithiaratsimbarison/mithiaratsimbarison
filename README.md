@@ -1,6 +1,6 @@
 # 👋 Hi, Nice to meet you! 
 
-I’m a dual-degree student in Digital Engineering & Management, currently studying at EDHEC Business School and Université de Technologie de Compiègne (UTC). I love working at the intersection of finance and data science, applying quantitative methods to solve real-world problems in financial markets and risk management. Last semester, I studied abroad in China, where I carried out several data analysis projects that gave me hands-on experience with large datasets and statistical modeling. My career goal is to work in financial markets, combining my finance knowledge with my technical skills to create meaningful impact.  
+I’m a dual-degree student in Digital Engineering & Management, currently studying at EDHEC Business School and Université de Technologie de Compiègne (UTC). Last semester, I studied abroad in China, where I carried out several data analysis projects that gave me hands-on experience with large datasets and statistical modeling. My long-term goal is to become a Risk Analyst, leveraging my quantitative and technical skills to assess market exposures, optimize portfolio strategies, and support data-driven decision-making in financial institutions.
 
 
 ---
